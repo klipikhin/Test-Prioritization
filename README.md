@@ -28,3 +28,18 @@ I designed and implemented a Q-learning agent that learns an optimal policy for 
   **Run in Google Colab**
    - Open `test_prioritization.ipynb`
    - Execute cells from top to bottom to train and evaluate the Q-learning agent.
+
+---
+##  Project Report
+
+A detailed explanation of the problem, algorithm design, reward engineering, and evaluation.
+
+ [Download the full report (PDF)](qlearning.pdf)
+
+---
+
+##  Presentation
+
+A quick walkthrough of the motivation, method, and results.
+
+ [Watch the video](https://youtu.be/PNEWNb-BRL0)
